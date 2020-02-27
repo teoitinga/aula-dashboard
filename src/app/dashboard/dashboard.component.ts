@@ -1,6 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-//import { Observable } from 'rxjs/Observable';
-
 import { DadosService } from './dados.service';
 
 declare var google: any;
